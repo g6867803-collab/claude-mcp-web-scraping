@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "quantumproxies": {
+      "command": "npx",
+      "args": ["-y", "quantumproxies-mcp"],
+      "env": {
+        "QUANTUMPROXIES_API_KEY": "qp_live_your_key_here"
+      }
+    }
+  }
+}
